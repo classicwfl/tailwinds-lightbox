@@ -30,7 +30,7 @@ const PostBody = ({ content }: Props) => {
 }
 ```
 
-That's it.
+That's it. Hell, I even included an example implementation that's pretty much an exact rip from my TW/React/Next.JS/TypeScript site, since TS requires more tweaks (see `lightbox-ts-example.tsx`).
 
 Note that you may need to adjust some classes to be appropriate for your typography, layout etc. Again, I've got comments noting where those changes might need to happen.
 
